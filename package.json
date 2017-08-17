@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "Web content scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Cuevas",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^3.11.1",
+    "scrape-it": "^3.3.2"
+  }
+}
